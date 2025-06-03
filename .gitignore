@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+# Generated data and temporary files
+*.tmp
+*.log
+tmp/
+# Virtual environments
+venv/
+
+data/generated/
+.env/
+.venv/
+env/
+ENV/
+
